@@ -1,0 +1,410 @@
+
+[INFO] Dataset=LargeKitchenAppliances, Normal Label=0
+[INFO] Labels=[0. 1. 2.], normal label=0
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=LargeKitchenAppliances, Normal Label=1
+[INFO] Labels=[0. 1. 2.], normal label=1
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=LargeKitchenAppliances, Normal Label=2
+[INFO] Labels=[0. 1. 2.], normal label=2
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=ElectricDevices, Normal Label=0
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6.], normal label=0
+[INFO] Train: normal=(836, 1, 96)
+[INFO] Val normal=279, abnormal=279
+[INFO] Test normal=279, abnormal=279
+[INFO] Class Distribution: {0.0: 1394, 1.0: 4187, 2.0: 1606, 3.0: 2639, 4.0: 4275, 5.0: 1252, 6.0: 1284}
+[INFO] Dataset=ElectricDevices, Normal Label=1
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6.], normal label=1
+[INFO] Train: normal=(2512, 1, 96)
+[INFO] Val normal=837, abnormal=837
+[INFO] Test normal=838, abnormal=838
+[INFO] Class Distribution: {0.0: 1394, 1.0: 4187, 2.0: 1606, 3.0: 2639, 4.0: 4275, 5.0: 1252, 6.0: 1284}
+[INFO] Dataset=ElectricDevices, Normal Label=2
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6.], normal label=2
+[INFO] Train: normal=(963, 1, 96)
+[INFO] Val normal=321, abnormal=321
+[INFO] Test normal=322, abnormal=322
+[INFO] Class Distribution: {0.0: 1394, 1.0: 4187, 2.0: 1606, 3.0: 2639, 4.0: 4275, 5.0: 1252, 6.0: 1284}
+[INFO] Dataset=ElectricDevices, Normal Label=3
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6.], normal label=3
+[INFO] Train: normal=(1583, 1, 96)
+[INFO] Val normal=528, abnormal=528
+[INFO] Test normal=528, abnormal=528
+[INFO] Class Distribution: {0.0: 1394, 1.0: 4187, 2.0: 1606, 3.0: 2639, 4.0: 4275, 5.0: 1252, 6.0: 1284}
+[INFO] Dataset=ElectricDevices, Normal Label=4
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6.], normal label=4
+[INFO] Train: normal=(2565, 1, 96)
+[INFO] Val normal=855, abnormal=855
+[INFO] Test normal=855, abnormal=855
+[INFO] Class Distribution: {0.0: 1394, 1.0: 4187, 2.0: 1606, 3.0: 2639, 4.0: 4275, 5.0: 1252, 6.0: 1284}
+[INFO] Dataset=ElectricDevices, Normal Label=5
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6.], normal label=5
+[INFO] Train: normal=(751, 1, 96)
+[INFO] Val normal=250, abnormal=250
+[INFO] Test normal=251, abnormal=251
+[INFO] Class Distribution: {0.0: 1394, 1.0: 4187, 2.0: 1606, 3.0: 2639, 4.0: 4275, 5.0: 1252, 6.0: 1284}
+[INFO] Dataset=ElectricDevices, Normal Label=6
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6.], normal label=6
+[INFO] Train: normal=(770, 1, 96)
+[INFO] Val normal=257, abnormal=257
+[INFO] Test normal=257, abnormal=257
+[INFO] Class Distribution: {0.0: 1394, 1.0: 4187, 2.0: 1606, 3.0: 2639, 4.0: 4275, 5.0: 1252, 6.0: 1284}
+[INFO] Dataset=RefrigerationDevices, Normal Label=0
+[INFO] Labels=[0. 1. 2.], normal label=0
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=RefrigerationDevices, Normal Label=1
+[INFO] Labels=[0. 1. 2.], normal label=1
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=RefrigerationDevices, Normal Label=2
+[INFO] Labels=[0. 1. 2.], normal label=2
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=ScreenType, Normal Label=0
+[INFO] Labels=[0. 1. 2.], normal label=0
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=ScreenType, Normal Label=1
+[INFO] Labels=[0. 1. 2.], normal label=1
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=ScreenType, Normal Label=2
+[INFO] Labels=[0. 1. 2.], normal label=2
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=SmallKitchenAppliances, Normal Label=0
+[INFO] Labels=[0. 1. 2.], normal label=0
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=SmallKitchenAppliances, Normal Label=1
+[INFO] Labels=[0. 1. 2.], normal label=1
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=SmallKitchenAppliances, Normal Label=2
+[INFO] Labels=[0. 1. 2.], normal label=2
+[INFO] Train: normal=(150, 1, 720)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 250, 1.0: 250, 2.0: 250}
+[INFO] Dataset=EthanolLevel, Normal Label=0
+[INFO] Labels=[0. 1. 2. 3.], normal label=0
+[INFO] Train: normal=(151, 1, 1751)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=51, abnormal=51
+[INFO] Class Distribution: {0.0: 252, 1.0: 250, 2.0: 252, 3.0: 250}
+[INFO] Dataset=EthanolLevel, Normal Label=1
+[INFO] Labels=[0. 1. 2. 3.], normal label=1
+[INFO] Train: normal=(150, 1, 1751)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 252, 1.0: 250, 2.0: 252, 3.0: 250}
+[INFO] Dataset=EthanolLevel, Normal Label=2
+[INFO] Labels=[0. 1. 2. 3.], normal label=2
+[INFO] Train: normal=(151, 1, 1751)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=51, abnormal=51
+[INFO] Class Distribution: {0.0: 252, 1.0: 250, 2.0: 252, 3.0: 250}
+[INFO] Dataset=EthanolLevel, Normal Label=3
+[INFO] Labels=[0. 1. 2. 3.], normal label=3
+[INFO] Train: normal=(150, 1, 1751)
+[INFO] Val normal=50, abnormal=50
+[INFO] Test normal=50, abnormal=50
+[INFO] Class Distribution: {0.0: 252, 1.0: 250, 2.0: 252, 3.0: 250}
+[INFO] Dataset=TwoPatterns, Normal Label=0
+[INFO] Labels=[0. 1. 2. 3.], normal label=0
+[INFO] Train: normal=(783, 1, 128)
+[INFO] Val normal=261, abnormal=261
+[INFO] Test normal=262, abnormal=262
+[INFO] Class Distribution: {0.0: 1306, 1.0: 1248, 2.0: 1245, 3.0: 1201}
+[INFO] Dataset=TwoPatterns, Normal Label=1
+[INFO] Labels=[0. 1. 2. 3.], normal label=1
+[INFO] Train: normal=(748, 1, 128)
+[INFO] Val normal=250, abnormal=250
+[INFO] Test normal=250, abnormal=250
+[INFO] Class Distribution: {0.0: 1306, 1.0: 1248, 2.0: 1245, 3.0: 1201}
+[INFO] Dataset=TwoPatterns, Normal Label=2
+[INFO] Labels=[0. 1. 2. 3.], normal label=2
+[INFO] Train: normal=(747, 1, 128)
+[INFO] Val normal=249, abnormal=249
+[INFO] Test normal=249, abnormal=249
+[INFO] Class Distribution: {0.0: 1306, 1.0: 1248, 2.0: 1245, 3.0: 1201}
+[INFO] Dataset=TwoPatterns, Normal Label=3
+[INFO] Labels=[0. 1. 2. 3.], normal label=3
+[INFO] Train: normal=(720, 1, 128)
+[INFO] Val normal=240, abnormal=240
+[INFO] Test normal=241, abnormal=241
+[INFO] Class Distribution: {0.0: 1306, 1.0: 1248, 2.0: 1245, 3.0: 1201}
+[INFO] Dataset=CBF, Normal Label=0
+[INFO] Labels=[0. 1. 2.], normal label=0
+[INFO] Train: normal=(186, 1, 128)
+[INFO] Val normal=62, abnormal=62
+[INFO] Test normal=62, abnormal=62
+[INFO] Class Distribution: {0.0: 310, 1.0: 310, 2.0: 310}
+[INFO] Dataset=CBF, Normal Label=1
+[INFO] Labels=[0. 1. 2.], normal label=1
+[INFO] Train: normal=(186, 1, 128)
+[INFO] Val normal=62, abnormal=62
+[INFO] Test normal=62, abnormal=62
+[INFO] Class Distribution: {0.0: 310, 1.0: 310, 2.0: 310}
+[INFO] Dataset=CBF, Normal Label=2
+[INFO] Labels=[0. 1. 2.], normal label=2
+[INFO] Train: normal=(186, 1, 128)
+[INFO] Val normal=62, abnormal=62
+[INFO] Test normal=62, abnormal=62
+[INFO] Class Distribution: {0.0: 310, 1.0: 310, 2.0: 310}
+[INFO] Dataset=Mallat, Normal Label=0
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=0
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=Mallat, Normal Label=1
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=1
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=Mallat, Normal Label=2
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=2
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=Mallat, Normal Label=3
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=3
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=Mallat, Normal Label=4
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=4
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=Mallat, Normal Label=5
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=5
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=Mallat, Normal Label=6
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=6
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=Mallat, Normal Label=7
+[INFO] Labels=[0. 1. 2. 3. 4. 5. 6. 7.], normal label=7
+[INFO] Train: normal=(180, 1, 1024)
+[INFO] Val normal=60, abnormal=60
+[INFO] Test normal=60, abnormal=60
+[INFO] Class Distribution: {0.0: 300, 1.0: 300, 2.0: 300, 3.0: 300, 4.0: 300, 5.0: 300, 6.0: 300, 7.0: 300}
+[INFO] Dataset=ChlorineConcentration, Normal Label=0
+[INFO] Labels=[0. 1. 2.], normal label=0
+[INFO] Train: normal=(600, 1, 166)
+[INFO] Val normal=200, abnormal=200
+[INFO] Test normal=200, abnormal=200
+[INFO] Class Distribution: {0.0: 1000, 1.0: 1000, 2.0: 2307}
+[INFO] Dataset=ChlorineConcentration, Normal Label=1
+[INFO] Labels=[0. 1. 2.], normal label=1
+[INFO] Train: normal=(600, 1, 166)
+[INFO] Val normal=200, abnormal=200
+[INFO] Test normal=200, abnormal=200
+[INFO] Class Distribution: {0.0: 1000, 1.0: 1000, 2.0: 2307}
+[INFO] Dataset=ChlorineConcentration, Normal Label=2
+[INFO] Labels=[0. 1. 2.], normal label=2
+[INFO] Train: normal=(1384, 1, 166)
+[INFO] Val normal=461, abnormal=461
+[INFO] Test normal=462, abnormal=462
+[INFO] Class Distribution: {0.0: 1000, 1.0: 1000, 2.0: 2307}
+[INFO] Dataset=CinCECGTorso, Normal Label=0
+[INFO] Labels=[0. 1. 2. 3.], normal label=0
+[INFO] Train: normal=(213, 1, 1639)
+[INFO] Val normal=71, abnormal=71
+[INFO] Test normal=71, abnormal=71
+[INFO] Class Distribution: {0.0: 355, 1.0: 355, 2.0: 355, 3.0: 355}
+[INFO] Dataset=CinCECGTorso, Normal Label=1
+[INFO] Labels=[0. 1. 2. 3.], normal label=1
+[INFO] Train: normal=(213, 1, 1639)
+[INFO] Val normal=71, abnormal=71
+[INFO] Test normal=71, abnormal=71
+[INFO] Class Distribution: {0.0: 355, 1.0: 355, 2.0: 355, 3.0: 355}
+[INFO] Dataset=CinCECGTorso, Normal Label=2
+[INFO] Labels=[0. 1. 2. 3.], normal label=2
+[INFO] Train: normal=(213, 1, 1639)
+[INFO] Val normal=71, abnormal=71
+[INFO] Test normal=71, abnormal=71
+[INFO] Class Distribution: {0.0: 355, 1.0: 355, 2.0: 355, 3.0: 355}
+[INFO] Dataset=CinCECGTorso, Normal Label=3
+[INFO] Labels=[0. 1. 2. 3.], normal label=3
+[INFO] Train: normal=(213, 1, 1639)
+[INFO] Val normal=71, abnormal=71
+[INFO] Test normal=71, abnormal=71
+[INFO] Class Distribution: {0.0: 355, 1.0: 355, 2.0: 355, 3.0: 355}
+[INFO] Dataset=Earthquakes, Normal Label=0
+[INFO] Labels=[0. 1.], normal label=0
+[INFO] Train: normal=(220, 1, 512)
+[INFO] Val normal=74, abnormal=74
+[INFO] Test normal=74, abnormal=19
+[INFO] Class Distribution: {0.0: 368, 1.0: 93}
+[INFO] Dataset=Earthquakes, Normal Label=1
+[INFO] Labels=[0. 1.], normal label=1
+[INFO] Train: normal=(55, 1, 512)
+[INFO] Val normal=19, abnormal=19
+[INFO] Test normal=19, abnormal=19
+[INFO] Class Distribution: {0.0: 368, 1.0: 93}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=0
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=0
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=1
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=1
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=2
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=2
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=3
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=3
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=4
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=4
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=5
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=5
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=6
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=6
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=7
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=7
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=8
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=8
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=9
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=9
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=InsectWingbeatSound, Normal Label=10
+[INFO] Labels=[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.], normal label=10
+[INFO] Train: normal=(120, 1, 256)
+[INFO] Val normal=40, abnormal=40
+[INFO] Test normal=40, abnormal=40
+[INFO] Class Distribution: {0.0: 200, 1.0: 200, 2.0: 200, 3.0: 200, 4.0: 200, 5.0: 200, 6.0: 200, 7.0: 200, 8.0: 200, 9.0: 200, 10.0: 200}
+[INFO] Dataset=MoteStrain, Normal Label=0
+[INFO] Labels=[0. 1.], normal label=0
+[INFO] Train: normal=(411, 1, 84)
+[INFO] Val normal=137, abnormal=137
+[INFO] Test normal=137, abnormal=137
+[INFO] Class Distribution: {0.0: 685, 1.0: 587}
+[INFO] Dataset=MoteStrain, Normal Label=1
+[INFO] Labels=[0. 1.], normal label=1
+[INFO] Train: normal=(352, 1, 84)
+[INFO] Val normal=117, abnormal=117
+[INFO] Test normal=118, abnormal=118
+[INFO] Class Distribution: {0.0: 685, 1.0: 587}
+[INFO] Dataset=SonyAIBORobotSurface1, Normal Label=0
+[INFO] Labels=[0. 1.], normal label=0
+[INFO] Train: normal=(209, 1, 70)
+[INFO] Val normal=70, abnormal=70
+[INFO] Test normal=70, abnormal=70
+[INFO] Class Distribution: {0.0: 349, 1.0: 272}
+[INFO] Dataset=SonyAIBORobotSurface1, Normal Label=1
+[INFO] Labels=[0. 1.], normal label=1
+[INFO] Train: normal=(163, 1, 70)
+[INFO] Val normal=54, abnormal=54
+[INFO] Test normal=55, abnormal=55
+[INFO] Class Distribution: {0.0: 349, 1.0: 272}
+[INFO] Dataset=SonyAIBORobotSurface2, Normal Label=0
+[INFO] Labels=[0. 1.], normal label=0
+[INFO] Train: normal=(225, 1, 65)
+[INFO] Val normal=75, abnormal=75
+[INFO] Test normal=76, abnormal=76
+[INFO] Class Distribution: {0.0: 376, 1.0: 604}
+[INFO] Dataset=SonyAIBORobotSurface2, Normal Label=1
+[INFO] Labels=[0. 1.], normal label=1
+[INFO] Train: normal=(362, 1, 65)
+[INFO] Val normal=121, abnormal=121
+[INFO] Test normal=121, abnormal=121
+[INFO] Class Distribution: {0.0: 376, 1.0: 604}
+[INFO] Dataset=FreezerRegularTrain, Normal Label=0
+[INFO] Labels=[0. 1.], normal label=0
+[INFO] Train: normal=(900, 1, 301)
+[INFO] Val normal=300, abnormal=300
+[INFO] Test normal=300, abnormal=300
+[INFO] Class Distribution: {0.0: 1500, 1.0: 1500}
+[INFO] Dataset=FreezerRegularTrain, Normal Label=1
+[INFO] Labels=[0. 1.], normal label=1
+[INFO] Train: normal=(900, 1, 301)
+[INFO] Val normal=300, abnormal=300
+[INFO] Test normal=300, abnormal=300
+[INFO] Class Distribution: {0.0: 1500, 1.0: 1500}
+[INFO] Dataset=FreezerSmallTrain, Normal Label=0
+[INFO] Labels=[0. 1.], normal label=0
+[INFO] Train: normal=(863, 1, 301)
+[INFO] Val normal=288, abnormal=288
+[INFO] Test normal=288, abnormal=288
+[INFO] Class Distribution: {0.0: 1439, 1.0: 1439}
+[INFO] Dataset=FreezerSmallTrain, Normal Label=1
+[INFO] Labels=[0. 1.], normal label=1
+[INFO] Train: normal=(863, 1, 301)
+[INFO] Val normal=288, abnormal=288
+[INFO] Test normal=288, abnormal=288
+[INFO] Class Distribution: {0.0: 1439, 1.0: 1439}
+
